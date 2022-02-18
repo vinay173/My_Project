@@ -1,5 +1,5 @@
 # My_Project
-1.	The program will take this link and return a shortened version of it
+1.	The program will take longer URL link and return a shortened version of it
 2.	We call these shortened aliases “short links.” Users are redirected to the original URL when they hit these short links. Short links save a lot of space when displayed, printed, messaged. Additionally, can remember the URL, Easy to maintain, can use the links where there are restrictions in text length
 3.	URL shortening is used for optimizing links across devices tracking individual links to analyze audience and campaign performance, and hiding affiliated original URLs.
 4.	We can add feature Auto expiry links to increases the performance, since we’re storing billions of rows NoSQL would be easier to scale
