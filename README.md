@@ -3,7 +3,7 @@
 2.	We call these shortened aliases “short links.” Users are redirected to the original URL when they hit these short links. Short links save a lot of space when displayed, printed, messaged. Additionally, can remember the URL, Easy to maintain, can use the links where there are restrictions in text length
 3.	URL shortening is used for optimizing links across devices tracking individual links to analyze audience and campaign performance, and hiding affiliated original URLs.
 4.	We can add feature Auto expiry links to increases the performance, since we’re storing billions of rows NoSQL would be easier to scale
-5.	To scale out our DB, we can use partitions concept buy this we can incress the performances of DB
+5.	To scale out our DB, we can use partitions concept by this we can increase the performances of DB
 6.	The DB may crash for various reasons we can do replicas We can even combine certain less frequently occurring letters into one database partition.
 7.	There can be multiple users inserting the same URL at the same time. We can control this with a lock.
 8.	We can add feature Caching, by this when the application servers, before hitting backend storage we can quickly check if the cache has the desired URL and We can add a Load balancing.
