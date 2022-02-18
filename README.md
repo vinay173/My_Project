@@ -7,8 +7,8 @@
 6.	The DB may crash for various reasons we can do replicas We can even combine certain less frequently occurring letters into one database partition.
 7.	There can be multiple users inserting the same URL at the same time. We can control this with a lock.
 8.	We can add feature Caching, by this when the application servers, before hitting backend storage we can quickly check if the cache has the desired URL and We can add a Load balancing.
- 
-![image](https://user-images.githubusercontent.com/62187417/154637182-4f5fb1b9-1afb-461a-8a42-166e9e3e8a18.png)
+
+Please find sample images:
 
 <img width="575" alt="Screen Shot 2022-02-18 at 12 11 46 AM" src="https://user-images.githubusercontent.com/62187417/154629216-fc09d600-6c00-4ab4-9f87-2c120a7cebee.png">
 <img width="600" alt="Screen Shot 2022-02-18 at 12 12 04 AM" src="https://user-images.githubusercontent.com/62187417/154629237-276df4b2-0c03-4b3a-902b-409b7b104c22.png">
